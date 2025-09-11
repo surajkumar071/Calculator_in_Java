@@ -17,8 +17,8 @@ class CalculatorExample {
     double result;
     switch (operator) {
         case '+':
-        result = a + b;
-        System.out.println(result);
+        add = a + b;
+        System.out.println(add);
         break;
 
         case '-':
@@ -46,5 +46,6 @@ class CalculatorExample {
         break;
         }
         }
+
 
 }
