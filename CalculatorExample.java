@@ -7,18 +7,18 @@ class CalculatorExample {
     System.out.println("Enter the operator (+, -, *, /, %): ");
     char operator = obj.next() .charAt(0);
 
-    System.out.println("Enter the first number: ");
+    System.out.println("Enter the value of first number: ");
     int a = obj.nextInt();
 
-    System.out.println("Enter Second Number: ");
+    System.out.println("Enter the value of Second Number: ");
     int b = obj.nextInt();
 
     
     double result;
     switch (operator) {
         case '+':
-        add = a + b;
-        System.out.println(add);
+        result = a + b;
+        System.out.println(result);
         break;
 
         case '-':
