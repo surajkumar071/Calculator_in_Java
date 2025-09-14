@@ -4,7 +4,7 @@ class CalculatorExample {
     public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
 
-    System.out.println("Enter the operators (+, -, *, /, %): ");
+    System.out.println("choose the operators (+, -, *, /, %): ");
     char operator = obj.next() .charAt(0);
 
     System.out.println("Enter the value of first number: ");
@@ -49,4 +49,5 @@ class CalculatorExample {
 
 
 }
+
 
