@@ -1,6 +1,6 @@
 import java.util.*;
 
-class CalculatorExample           BBB.  BBB. BBB. b{
+class CalculatorExample           BBB.  BBB. B{
     public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
 
