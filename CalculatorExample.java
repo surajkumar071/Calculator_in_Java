@@ -1,4 +1,4 @@
-import java.util.*;     bb.  ji. g
+import java.util.*;     bb.  ji
 
 class CalculatorExample {
     public static void main(String[] args) {
