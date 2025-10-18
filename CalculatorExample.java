@@ -1,4 +1,4 @@
-import java.util.*;     bb.  ji. gf. gy.  h. 
+import java.util.*;     bb.  ji. gf. gy.  
 
 class CalculatorExample {
     public static void main(String[] args) {
