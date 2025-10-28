@@ -1,8 +1,4 @@
 
-
- BBB.
-
-
 import java.util.*;
 
 class CalculatorExample {
