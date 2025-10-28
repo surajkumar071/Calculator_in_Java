@@ -1,6 +1,6 @@
 
 
- BBB. chh cc. mm. hu.
+ BBB. chh cc. mm
 
 
 
