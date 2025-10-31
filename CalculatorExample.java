@@ -1,6 +1,6 @@
 
 
-v. n. Dr non. u. f
+v. n. Dr non. 
 
 
 
