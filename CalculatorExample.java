@@ -1,11 +1,5 @@
 
 
-v. n
-
-
-
-
-
 import java.util.*;
 
 class CalculatorExample {
