@@ -2,7 +2,7 @@
 
 
 
-cv n. h. db kb g. h. j. fb. m. cv km cdg kk
+cv n. h. db kb g. h. j. fb. m. cv km cd
 
 
 
