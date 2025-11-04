@@ -2,7 +2,7 @@
 
 
 
-cv n. h. db kb g. 
+cv n. h. 
 
 
 
