@@ -2,7 +2,7 @@
 
 
 
-h. g. nj. f. k. gh br
+h. g. nj. f. k. gh
 
 
 
