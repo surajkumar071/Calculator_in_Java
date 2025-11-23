@@ -3,8 +3,7 @@
 
 
 
-gn n cc. j. fb JN hh 
-
+gn n cc. j. 
 
 
 
