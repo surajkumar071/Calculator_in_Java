@@ -3,9 +3,7 @@
 
 
 
-gn n cc. 
-
-
+gn 
 
 
 import java.util.*;
