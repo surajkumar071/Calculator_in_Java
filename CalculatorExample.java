@@ -3,8 +3,6 @@
 
 
 
-gn 
-
 
 import java.util.*;
 
