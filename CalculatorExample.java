@@ -3,9 +3,7 @@
 
 
 
-gn n cc. j. 
-
-
+gn n cc. 
 
 
 
