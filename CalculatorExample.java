@@ -1,7 +1,7 @@
 
 
 
-g and h is
+g and
 
 
 
