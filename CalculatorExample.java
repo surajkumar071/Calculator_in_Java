@@ -1,7 +1,7 @@
 
 
 
-g and h is for the same time as well as the same time as 
+g and h is for the same time as well as the same ti
 
 
 
