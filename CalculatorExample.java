@@ -1,7 +1,7 @@
 
 
 
-g and h is for the s
+g and h is for 
 
 
 
