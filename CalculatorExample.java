@@ -1,7 +1,7 @@
 
 
 
-g and h is for the same tim
+g and h is for the s
 
 
 
