@@ -1,10 +1,4 @@
 
-
-
-
-ad Kol
-
-
 import java.util.*;
 
 class CalculatorExample {
