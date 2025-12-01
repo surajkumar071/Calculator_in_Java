@@ -2,8 +2,7 @@
 
 
 
-ad Kolkata dj
-
+ad Kol
 
 
 import java.util.*;
