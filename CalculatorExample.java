@@ -2,7 +2,7 @@
 
 
 
-shiv ratri and the other day and I will be in the same day as 
+shiv ratri and the other day and I will be in the dame 
 
 
 
