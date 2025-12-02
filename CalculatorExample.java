@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 import java.util.*;
 
 class CalculatorExample {
