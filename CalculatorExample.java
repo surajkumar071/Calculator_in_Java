@@ -2,8 +2,7 @@
 
 
 
-shiv ratri a
-
+shiv r
 
 
 
