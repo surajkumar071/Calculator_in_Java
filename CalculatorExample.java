@@ -2,7 +2,7 @@
 
 
 
-Suraj Kumar and Sonakshi Si
+Suraj Kumar and S
 
 
 
