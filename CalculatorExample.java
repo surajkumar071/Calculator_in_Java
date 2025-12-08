@@ -2,7 +2,7 @@
 
 
 
-Suraj Kumar and Sonakshi Sinha and the other day and 
+Suraj Kumar and Sonakshi Sinha and the other 
 
 
 
