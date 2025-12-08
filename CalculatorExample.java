@@ -1,12 +1,4 @@
 
-
-
-
-Sura
-
-
-
-
 import java.util.*;
 
 class CalculatorExample {
