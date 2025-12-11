@@ -4,7 +4,7 @@
 
 
 
-Suraj Kumar Singh Rathore
+Suraj Kumar Singh
 
 
 
