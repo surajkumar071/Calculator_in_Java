@@ -3,7 +3,7 @@
 
 
 
-ok cancel reply using the same time as well as the same time as well as 
+ok cancel reply using the same time as well as the same time as
 
 
 
