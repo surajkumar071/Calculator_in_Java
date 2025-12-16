@@ -3,7 +3,7 @@
 
 
 
-ok cancel reply using the same time as w
+ok cancel reply using the same t
 
 
 
