@@ -3,7 +3,7 @@
 
 
 
-ok cancel reply using the same t
+ok cancel reply using the
 
 
 
