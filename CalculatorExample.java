@@ -3,7 +3,7 @@
 
 
 
-ok cancel reply using the
+ok cancel reply us
 
 
 
