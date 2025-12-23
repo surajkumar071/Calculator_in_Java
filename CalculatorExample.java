@@ -2,8 +2,7 @@
 
 
 
-SSD drive to the sa
-
+SSD drive t
 
 
 
