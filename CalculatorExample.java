@@ -2,8 +2,7 @@
 
 
 
-SSD drive to the same is the bes
-
+SSD drive to the same is t
 
 
 
