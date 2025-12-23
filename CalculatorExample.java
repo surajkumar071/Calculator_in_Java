@@ -2,7 +2,7 @@
 
 
 
-SSD drive to the same person who is the best for your exams and all 
+SSD drive to the same person who is the best for your exa
 
 
 
