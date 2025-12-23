@@ -1,10 +1,4 @@
 
-
-
-
-SSD d
-
-
 import java.util.*;
 
 class CalculatorExample {
