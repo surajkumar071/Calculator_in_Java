@@ -2,7 +2,7 @@
 
 
 
-SSD drive to the same person who is the best for yo
+SSD drive to the same is the best for yo
 
 
 
