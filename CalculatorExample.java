@@ -2,8 +2,7 @@
 
 
 
-SSD drive to the same is t
-
+SSD drive to the sa
 
 
 
