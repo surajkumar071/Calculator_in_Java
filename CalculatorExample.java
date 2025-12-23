@@ -2,7 +2,7 @@
 
 
 
-SSD drive to the same person who is the best for your exa
+SSD drive to the same person who is the best for yo
 
 
 
